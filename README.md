@@ -1,50 +1,73 @@
-# Hi 👋, I'm Jhon Marco Aracayo Mamani  
-**Systems Engineer & Software Developer Student** | 🇵🇪 Peru  
+# Welcome aboard! 🌍 Jhon Marco Aracayo Mamani  
+**Systems Engineering Student & Aspiring Developer** | 🇵🇪 Peru  
 
 ---
 
-## 🌐 Connect with Me  
-| [LinkedIn](https://www.linkedin.com/in/jhon-marco-aracayo-mamani-6a3908272/) | [Facebook](https://web.facebook.com/jhonmarcosnk/) | [📧 Email](mailto:jaracayo7@gmail.com) |
+## 🌟 Who Am I?  
+Hey! 👋 I’m Jhon Marco, a Systems Engineering student hailing from Peru, where the rich culture and ceviche 🍲 fuel my passion. I’m on a journey to master software development, loving every moment of learning and building functional solutions. I’m not just code—I’m a curious soul excited to craft projects with heart ❤️.  
+
+Ready to team up? Let’s create something awesome! 💻  
+
+- 📚 **Learning Path**: Diving into web and software technologies  
+- 🌐 **Projects**: See my creations at [https://tamoil-0.github.io/portafolio/](https://tamoil-0.github.io/portafolio/)  
+- ✉️ **Get in Touch**: [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com)  
 
 ---
 
-## 👨‍💻 About Me  
-Hello!!! 🌟  
-I’m Jhon Marco Aracayo Mamani from Peru, a land famous for its delicious ceviche 🍲. As a Systems Engineering student, I’m passionate about software development, learning new skills every day, and exploring the functionality behind technology 💻. I’m not just a coding robot 🤖—I’m a real human driven by curiosity and love for creating amazing projects with ❤️.  
+## 🔧 My Toolkit  
+### Programming Languages  
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- PHP  
+- Java  
+- C++  
+- C#  
+- Dart  
 
-I’m always excited to collaborate on new projects—feel free to reach out! 👨‍💻  
+### Frameworks & Libraries  
+- Angular  
+- React  
+- Vue.js  
+- Spring  
+- Node.js  
+- Express  
+- CodeIgniter  
+- Bootstrap  
+- Chart.js  
+- Flutter  
 
-- 🌱 **Currently Learning**: Advanced web development and backend technologies  
-- 💻 **Projects**: Check out my work at [https://tamoil-0.github.io/portafolio/](https://tamoil-0.github.io/portafolio/)  
-- 📫 **Contact**: [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com)  
+### Databases & Dev Tools  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- MSSQL  
+- Oracle  
+- Git  
+- Docker  
+- Postman  
+- Firebase  
 
 ---
 
-## 🛠️ Languages & Tools  
-| **Languages**            | **Frameworks & Tools**       |  
-|--------------------------|------------------------------|  
-| HTML5                    | Angular                      |  
-| CSS3                     | Bootstrap                    |  
-| JavaScript               | Chart.js                     |  
-| TypeScript               | CodeIgniter                  |  
-| PHP                      | Express                      |  
-| Java                     | Flutter                      |  
-| C++                      | React                        |  
-| C#                       | Vue.js                       |  
-| Dart                     | Spring                       |  
-|                          | Node.js                      |  
-| **Databases**            | Docker                       |  
-| MySQL                    | Firebase                     |  
-| PostgreSQL               | Git                          |  
-| MongoDB                  | Postman                      |  
-| MSSQL                    | Oracle                       |  
-
+## 🚀 On My Radar  
+- Building practical applications to sharpen my skills  
+- Exploring new coding techniques and tools  
+- Connecting with developers for exciting collaborations  
 
 ---
 
-## 🎯 Goals  
-- Build more real-world projects to showcase my skills  
-- Contribute to open-source communities  
-- Master advanced frameworks like Angular and React  
+## 📱 Stay Connected  
+| Platform         | Link                              |  
+|-------------------|-----------------------------------|  
+| LinkedIn         | [Jhon Marco](https://www.linkedin.com/in/jhon-marco-aracayo-mamani-6a3908272/) |  
+| Facebook         | [Jhon Marcos](https://web.facebook.com/jhonmarcosnk/) |  
+| Email            | [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com) |  
+
+---
+
+## 🌱 Fun Fact  
+Did you know? I’m inspired by Peru’s diverse landscapes, which push me to design code that’s just as vibrant! 🌄  
 
 ---
