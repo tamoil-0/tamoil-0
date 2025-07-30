@@ -39,10 +39,6 @@ I’m always excited to collaborate on new projects—feel free to reach out! �
 | MongoDB                  | Postman                      |  
 | MSSQL                    | Oracle                       |  
 
----
-
-## 📊 GitHub Stats  
-*(Estadísticas automáticas aparecerán aquí si configuras un badge, ej. con un servicio como `github-readme-stats`)*  
 
 ---
 
