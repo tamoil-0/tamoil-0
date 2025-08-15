@@ -14,9 +14,9 @@ Diving deeper into web, mobile, and backend development
 Exploring Docker, APIs, and database optimization
 
 🛠 Tech I work with:
-HTML · CSS · JavaScript · TypeScript · PHP · Java · C++ · C# · Dart
-Angular · React · Vue.js · Spring · Node.js · Express · Flutter
-MySQL · PostgreSQL · MongoDB · MSSQL · Oracle · Git · Docker · Firebase · Postman
+HTML · CSS · JavaScript · TypeScript · PHP · Java · C++ · Dart
+· React · Vue.js - Laravel - Codegniter · Spring · Node.js · Express · Flutter
+MySQL · PostgreSQL · Git · Docker · Firebase · Postman
 
 🌐 Portfolio: tamoil-0.github.io/portafolio
 📩 Email: jaracayo7@gmail.com
