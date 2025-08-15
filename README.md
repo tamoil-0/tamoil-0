@@ -1,73 +1,24 @@
-# Welcome aboard! 🌍 Jhon Marco Aracayo Mamani  
-**Systems Engineering Student & Aspiring Developer** | 🇵🇪 Peru  
+Hey, I’m Jhon Marco 🚀
 
----
+Systems Engineering Student | Aspiring Full-Stack Developer | Peru 🇵🇪
 
-## 🌟 Who Am I?  
-Hey! 👋 I’m Jhon Marco, a Systems Engineering student hailing from Peru, where the rich culture and ceviche 🍲 fuel my passion. I’m on a journey to master software development, loving every moment of learning and building functional solutions. I’m not just code—I’m a curious soul excited to craft projects with heart ❤️.  
+I’m a tech enthusiast who enjoys turning ideas into working solutions—whether that’s a mobile app in Flutter, a web platform with modern frameworks, or a database-driven system.
+For me, coding isn’t just about syntax—it’s about solving problems, experimenting with new tools, and making something people can actually use.
 
-Ready to team up? Let’s create something awesome! 💻  
+💡 Currently:
 
-- 📚 **Learning Path**: Diving into web and software technologies  
-- 🌐 **Projects**: See my creations at [https://tamoil-0.github.io/portafolio/](https://tamoil-0.github.io/portafolio/)  
-- ✉️ **Get in Touch**: [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com)  
+Building practical projects to level up my skills
 
----
+Diving deeper into web, mobile, and backend development
 
-## 🔧 My Toolkit  
-### Programming Languages  
-- HTML5  
-- CSS3  
-- JavaScript  
-- TypeScript  
-- PHP  
-- Java  
-- C++  
-- C#  
-- Dart  
+Exploring Docker, APIs, and database optimization
 
-### Frameworks & Libraries  
-- Angular  
-- React  
-- Vue.js  
-- Spring  
-- Node.js  
-- Express  
-- CodeIgniter  
-- Bootstrap  
-- Chart.js  
-- Flutter  
+🛠 Tech I work with:
+HTML · CSS · JavaScript · TypeScript · PHP · Java · C++ · C# · Dart
+Angular · React · Vue.js · Spring · Node.js · Express · Flutter
+MySQL · PostgreSQL · MongoDB · MSSQL · Oracle · Git · Docker · Firebase · Postman
 
-### Databases & Dev Tools  
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- MSSQL  
-- Oracle  
-- Git  
-- Docker  
-- Postman  
-- Firebase  
+🌐 Portfolio: tamoil-0.github.io/portafolio
+📩 Email: jaracayo7@gmail.com
 
----
-
-## 🚀 On My Radar  
-- Building practical applications to sharpen my skills  
-- Exploring new coding techniques and tools  
-- Connecting with developers for exciting collaborations  
-
----
-
-## 📱 Stay Connected  
-| Platform         | Link                              |  
-|-------------------|-----------------------------------|  
-| LinkedIn         | [Jhon Marco](https://www.linkedin.com/in/jhon-marco-aracayo-mamani-6a3908272/) |  
-| Facebook         | [Jhon Marcos](https://web.facebook.com/jhonmarcosnk/) |  
-| Email            | [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com) |  
-
----
-
-## 🌱 Fun Fact  
-Did you know? I’m inspired by Peru’s diverse landscapes, which push me to design code that’s just as vibrant! 🌄  
-
----
+Fun fact: Peru’s landscapes inspire me to create code that’s just as dynamic and full of life 🌄.
