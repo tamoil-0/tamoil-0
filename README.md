@@ -52,11 +52,10 @@ Dev/Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-Highlight
 
 🔦 Ecoing Suite (ongoing): Flutter app for field crews, PHP API with JWT, MariaDB, FPDF reports with images and UTM (19S) coordinates, plus a Next.js/Tailwind corporate site.
 
-🌐 Portfolio: tamoil-0.github.io/portafolio
+🌐 Portfolio: tamoil-0.github.io/portafolio (UNDER CONSTRUCTION)
 📩 Email: jaracayo7@gmail.com
 
 🌄 Fun fact: Peru’s landscapes inspire me to build dynamic, living code.
