@@ -1,72 +1,66 @@
-Jhon Marco — Systems Engineering Student (9th completed · 10th in 2026-I) · Full-Stack Developer  
-Flutter / PHP / Next.js · Power Infrastructure & GIS 🇵🇪
+# Jhon Marco Aracayo Mamani
 
-I turn real-world needs into usable software: Flutter + SQLite offline-first mobile apps 📱, 
-PHP + MariaDB backends with JWT 🔐, automated PDF report generation with FPDF 🧾, 
-and Next.js/Tailwind for clean, scalable web UIs ⚡.  
-
-I focus on reliable image capture workflows 🖼️, UTM geolocation 📍, 
-and robust synchronization for field operations 🔄.
+**Systems Engineering Student (10th semester)** | Full-Stack Developer  
+🎓 Universidad Nacional del Altiplano - Puno, Peru 🇵🇪
 
 ---
 
-### Currently
+## 👨‍💻 About Me
 
-🏗️ Building a mobile + backend + web ecosystem for power pole/line management (Grupo ECOING).
+I build practical software that solves real problems: **Flutter + SQLite** offline-first mobile apps 📱, **PHP + MariaDB** backends with JWT 🔐, **Next.js/Tailwind** web dashboards ⚡, and **AI/ML applications** for agriculture and infrastructure 🌾.
 
-🖇️ Hardening image pipelines (Before / During / After / Measurements) 
-and automated PDF reporting.
-
-🔒 Improving security (JWT, role-based access control) 
-and SQL performance optimization.
+**Recent highlights:**
+- 🥇 First Place - Student Projects Competition 2025
+- 🚀 NASA Space Apps Challenge 2025 (AgroPredict-AI)
+- ⚡ 40% time reduction in field operations (ECOING)
+- 📜 309 certified hours - Judicial Branch of Puno
 
 ---
 
-### Core Stack
+## 🛠️ Tech Stack
 
-#### 🌐 Frontend / Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+**Frontend/Mobile:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-#### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
-#### 🛠️ Backend
+**Backend/Databases:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![FPDF](https://img.shields.io/badge/FPDF-555555?logo=adobeacrobatreader&logoColor=white)
-
-#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-#### 🧰 Dev / Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**AI/ML & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-🔦 **Ecoing Suite**  
-Flutter app for field crews, PHP API with JWT, MariaDB, automated FPDF reports 
-with images and UTM (19S) coordinates, plus a Next.js/Tailwind corporate site.
+## 🚀 Featured Projects
 
-🌐 **Portfolio:** https://tamoil-0.github.io/portafolio *(under construction)*  
-📩 **Email:** jaracayo7@gmail.com  
+**⚡ ECOING Inspection System** - Full-stack georeferenced infrastructure platform  
+Flutter (offline-first) + PHP/MariaDB + Next.js. 500+ inspections, 40% time reduction.
 
-🌄 *Fun fact:* Peru’s landscapes inspire me to build dynamic, living code.
+**🌾 AgroPredict-AI** - NASA Space Apps Challenge 2025  
+AI crop monitoring with Sentinel-2 + IoT + ML (TensorFlow/Scikit-learn).
+
+**🎓 Academic AI System** - First Place Winner  
+AI-powered student risk detection with neural networks and clustering.
+
+---
+
+## 📫 Contact
+
+📧 [jaracayo7@gmail.com](mailto:jaracayo7@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/jhonmarcoaracayomamani)  
+🌐 [Portfolio](https://tamoil-0.github.io/portafolio) *(coming soon)*
+
+---
+
+🌄 **From the Andes, coding for the world** | Open to internships & collaborations
