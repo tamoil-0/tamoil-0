@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jhon Marco Aracayo Mamani
 
 **Systems Engineering Student (10th semester)** | Full-Stack Developer  
-📍 Puno, Peru 🇵🇪
+📍Peru 🇵🇪
 
 I build **practical and scalable software** focused on real-world use cases:  
 offline-first mobile apps, secure backend systems, and modern web dashboards.  
